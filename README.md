@@ -1,0 +1,1 @@
+### Dementor complete install macos on dell xps15 9550 catalina 10.15.7
